@@ -8,7 +8,7 @@ package entity;
  */
 public class Usuario  implements java.io.Serializable {
 
-
+    // comentando ...
      private long id;
      private String nombre;
      private String email;
